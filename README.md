@@ -1,6 +1,4 @@
 # crnkd
-testy
-stuff
 The jupyter notebook has been uploaded as `main.ipynb`
 
 The presentations is uploaded as `crnkd.pdf` 
